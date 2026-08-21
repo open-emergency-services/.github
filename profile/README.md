@@ -4,10 +4,6 @@
 
 When the vendors got bought up and the cheaper options got killed off, the bill landed on small, mostly-volunteer departments least able to pay it. The response here is simple: build the core tools as open software, on open standards, under a rule that the code stays open, the data stays the agency's, and nobody can lock it up and resell it.
 
-## Why "emergency services"
-
-"Public safety" reads police-coded. "First responder" includes police by definition. **"Emergency services"** leans toward fire, EMS, ambulance, and rescue — and quietly away from law enforcement. That's the intended feel, and it's why the umbrella is broad while each product underneath is named for exactly what it is.
-
 ## The projects
 
 | Repo | What it is | Scope |
